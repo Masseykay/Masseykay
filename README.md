@@ -16,9 +16,9 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/karyn
+[twitter]: https://twitter.com/karynmasse51737
 [instagram]: https://www.instagram.com/karyn
-[linkedin]: https://linkedin.com/in/karynmasse51737
+[linkedin]: https://linkedin.com/in/karynmassey
 
 <!---
 karynmassey/karynmassey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
