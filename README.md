@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/karyn
 [instagram]: https://www.instagram.com/karyn
-[linkedin]: https://linkedin.com/in/karynmassey
+[linkedin]: https://linkedin.com/in/karynmasse51737
 
 <!---
 karynmassey/karynmassey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
